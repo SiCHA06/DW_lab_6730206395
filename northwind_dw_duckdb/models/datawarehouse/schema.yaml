@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: dim_employees
+    columns:
+      - name: employee_id
+        tasts: 
+          - not_null
+          - unique
+  - name: dim_customers
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
