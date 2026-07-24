@@ -61,4 +61,4 @@ In the staging layer, we have the following tables:
 - invoices: load invoices from datasets/invoices.csv and insert ingestion timestamp.
 
 ### **Datawarehouse Leyers**
-<img src="/readme_images/logical-modal.png">
+<img src="/readme_images/logical-model.png">
